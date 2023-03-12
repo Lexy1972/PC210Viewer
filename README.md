@@ -3,4 +3,4 @@ Captue Guide PC210 IR camera
 
 Captures the stream of a Guide PC210 IR camera when put in webcam mode (USBMode = Projection).
 
-![Screenshot]("Images/Screenshot main window.png")
+![Screenshot](Images/Screenshot_main_window.png)
