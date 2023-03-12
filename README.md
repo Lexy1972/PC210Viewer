@@ -7,7 +7,7 @@ We cannot use a 'normal' webcam frame grabber as the PC210 outputs a fliped/mirr
 
 ![Screenshot](Images/Screenshot_main_window.png)
 
-It also has a copy to clipboard to capture the current shown image to the clipboard.
+It also has a copy to clipboard function to capture the current shown image to the clipboard.
 
 The projection option can be found in the settings menu of the PC210:
 
